@@ -1,3 +1,3 @@
 # implement-TCP-based-client-server-application
- A project that develop a simple TCP-based client server application, using Java Programming Language. 
+ A project that develop a simple TCP-based client server application, using Java Programming Language. project for Netowrk cours
 read the pdf for more information about who to installed the environment, etc... 
